@@ -5,6 +5,7 @@ I am a Full-Stack Software Developer passionate about building high-performance 
 🚀 What I Do
 
 Mobile & Web: Building cross-platform apps with React Native (Expo), Angular, and Django.
+
 Design: Crafting intuitive layouts in Figma, with a specialized interest in calligraphic typography and custom patterns.
 
 🛠 Tech Stack
