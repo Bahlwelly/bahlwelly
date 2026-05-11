@@ -1,6 +1,6 @@
 ## Hi there, I’m Lwelly Bah 👋
 
-I am a Full-Stack Software Developer and System Architect passionate about building high-performance applications and elegant user experiences. I specialize in bridging the gap between robust backend logic and refined UI/UX design.
+I am a Full-Stack Software Developer passionate about building high-performance applications and elegant user experiences. I specialize in bridging the gap between robust backend logic and refined UI/UX design.
 
 🚀 What I Do
 
