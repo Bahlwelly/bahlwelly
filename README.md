@@ -7,13 +7,18 @@ Design: Crafting intuitive layouts in Figma, with a specialized interest in call
 
 🛠 Tech Stack
 Languages: JavaScript, TypeScript, Python
+
 Frontend: React Native, Angular, Figma
+
 Backend: Django, PostgreSQL, REST APIs
 
 📈 Current Focus
 I’m currently working on full-stack projects to get more mastery over the technologies i use and gain more experience in real world production.
 
 📫 How to reach me:
+
 LinkedIn: www.linkedin.com/in/lwelly-ebah
+
 Phone: +22236956761
+
 Email: lwellyebah@gmail.com
