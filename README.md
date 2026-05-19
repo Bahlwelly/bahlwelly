@@ -12,7 +12,7 @@ Design: Crafting intuitive layouts in Figma, with a specialized interest in call
 
 Languages: JavaScript, TypeScript, Python
 
-Frontend: React Native, Angular, Figma
+Frontend: React, React Native, Angular, Figma
 
 Backend: Django, PostgreSQL, REST APIs
 
